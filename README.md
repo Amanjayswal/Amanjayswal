@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Amanjayswal/Amanjayswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:jayswalaman50@gmail.com
 - 😄 Pronouns: Aman Jayswal
 - ⚡ Fun fact: Exicited to learn and practise the new upcoming tech knowledge for self updation..
--->
 <a href="https://www.linkedin.com/in/aman-jaiswal-599893253/">Linkedin Link</a> 
